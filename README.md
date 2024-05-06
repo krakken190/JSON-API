@@ -37,6 +37,3 @@ JSON
   { "id": 100, "name": "xyz" },
   { "id": 10, "name": "abc" }
 ]
-Retrieving Users:
-
-GET: http://localhost:5000/getusers (or /getusers?threshold=10)
